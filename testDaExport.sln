@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{51F34517-927E-DA51-B517-A716F6ED2B6A}") = "testDaExport", "Assembly-CSharp.csproj", "{16FB753C-223E-B442-2FEF-B6F0F0C56C0F}"
+EndProject
+Project("{51F34517-927E-DA51-B517-A716F6ED2B6A}") = "testDaExport", "Assembly-CSharp-Editor.csproj", "{C93E780B-585C-E56A-6E34-F8E38957AE6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16FB753C-223E-B442-2FEF-B6F0F0C56C0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16FB753C-223E-B442-2FEF-B6F0F0C56C0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16FB753C-223E-B442-2FEF-B6F0F0C56C0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16FB753C-223E-B442-2FEF-B6F0F0C56C0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C93E780B-585C-E56A-6E34-F8E38957AE6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C93E780B-585C-E56A-6E34-F8E38957AE6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C93E780B-585C-E56A-6E34-F8E38957AE6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C93E780B-585C-E56A-6E34-F8E38957AE6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
